@@ -1,0 +1,12 @@
+2019-09-03 18:09:06 CDT FATAL:  el sistema de base de datos está iniciándose
+2019-09-03 18:09:06 CDT LOG:  el sistema de bases de datos fue apagado en 2019-09-03 18:06:58 CDT
+2019-09-03 18:09:07 CDT LOG:  las protecciones de reciclaje de miembros de multixact están habilitadas
+2019-09-03 18:09:07 CDT LOG:  el sistema de bases de datos está listo para aceptar conexiones
+2019-09-03 18:09:07 CDT LOG:  lanzador de autovacuum iniciado
+2019-09-03 19:00:55 CDT FATAL:  la autentificación password falló para el usuario «postgres»
+2019-09-03 19:00:55 CDT DETALLE:  La conexión coincidió con la línea 82 de pg_hba.conf: «host    all             all             ::1/128                 md5»
+2019-09-03 19:09:00 CDT LOG:  se recibió petición de apagado rápido
+2019-09-03 19:09:00 CDT LOG:  abortando transacciones activas
+2019-09-03 19:09:00 CDT LOG:  apagando lanzador de autovacuum
+2019-09-03 19:09:00 CDT LOG:  apagando
+2019-09-03 19:09:01 CDT LOG:  el sistema de bases de datos está apagado
